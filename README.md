@@ -1,4 +1,4 @@
-# UrFry
+# UrFry- Batch-System
 
 UrFry is a single landing page application with smooth scrolling effects, developed using HTML, CSS, JavaScript, React, and Chakra UI. It features sections such as Home, Features, Advantages, About Us, and FAQs. The smooth scrolling effect is implemented using the `react-scroll` library.
 
@@ -37,7 +37,7 @@ To get started with the project, follow these steps:
 ## Usage
 
 To run the project locally, use the following command:
-    ```bash
+    ```
     npm run dev
     ```
 
