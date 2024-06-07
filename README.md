@@ -43,7 +43,7 @@ To run the project locally, use the following command:
 
 This will start the development server. Open your browser and navigate to `http://localhost:5173` to view the application.
 
-You can also view the deployed application [here](https://uifry-pied-two.vercel.app/).
+You can also view the deployed application [here](https://batch-system-priyanshu.vercel.app/).
 
 ## Technologies Used
 
