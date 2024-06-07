@@ -1,0 +1,8 @@
+@font-face {
+    font-family: clashy;
+    src: url('/Fonts/ClashDisplay-Variable.ttf');
+}
+
+:root{
+    font-family: clashy;
+}
